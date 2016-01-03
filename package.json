@@ -1,6 +1,6 @@
 {
   "name": "gpslibgt06n",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "work with some GPS trackers that connects through tcp(GT06n)",
   "main": "index.js",
   "author": "Bhaskar sharma",
