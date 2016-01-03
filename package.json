@@ -6,6 +6,7 @@
   "author": "Bhaskar sharma",
   "license": "GPL-3.0",
   "dependencies": {
+    "crc-itu": "0.0.2",
     "node.extend": "*"
   }
 }
