@@ -1,0 +1,6 @@
+How to update gpsLib:
+1.npm version +current
+2. git add -A
+3. git commit -m "message"
+4. git push origin master
+5. npm publish  
