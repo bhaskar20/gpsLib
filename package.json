@@ -6,6 +6,8 @@
   "author": "Bhaskar sharma",
   "license": "GPL-3.0",
   "dependencies": {
+    "collect.js": "^4.31.3",
+    "mysql": "^2.18.1",
     "node.extend": "*"
   }
 }
